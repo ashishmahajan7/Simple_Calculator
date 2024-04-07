@@ -33,9 +33,7 @@ public class Additions implements AdditionInterface{
 			}
 		}
 		int addition = one + two;
-		System.out.println("Addition is "+ addition);
-
-		
+		System.out.println("Addition is "+ addition);	
 	}
 
 }
