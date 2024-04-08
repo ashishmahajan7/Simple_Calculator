@@ -1,4 +1,4 @@
-package com.division;
+package com.calculator;
 
 public interface DivisionInterface {
 	

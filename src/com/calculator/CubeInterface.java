@@ -1,4 +1,4 @@
-package com.cube;
+package com.calculator;
 
 public interface CubeInterface {
 	

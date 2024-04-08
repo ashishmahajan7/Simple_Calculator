@@ -1,4 +1,4 @@
-package com.multiplication;
+package com.calculator;
 
 public interface MultiplicationInterface {
 	

@@ -1,4 +1,4 @@
-package com.division;
+package com.calculator;
 
 import java.util.Scanner;
 

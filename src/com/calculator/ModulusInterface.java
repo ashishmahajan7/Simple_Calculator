@@ -1,4 +1,4 @@
-package com.modulus;
+package com.calculator;
 
 public interface ModulusInterface {
 	

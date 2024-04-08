@@ -1,15 +1,15 @@
-package com.addition;
+package com.calculator;
 
 import java.util.Scanner;
 
-public class Additions implements AdditionInterface{
+public class Multiplications implements MultiplicationInterface{
 
 	@Override
-	public void getAddition() {
+	public void getMultiplications() {
 		Scanner sc = new Scanner(System.in);
 		int one;
 		int two ;
-		System.out.println("You are performing Addition of two numbers :\n");
+		System.out.println("You are performing Multplication of two numbers :\n");
 		while(true) {
 			try {
 				System.out.println("Enter First Number :");
@@ -32,8 +32,9 @@ public class Additions implements AdditionInterface{
 				sc.next();
 			}
 		}
-		int addition = one + two;
-		System.out.println("Addition is "+ addition);	
+		int multiply = one * two;
+		System.out.println("Multiplication is "+ multiply);
+		
 	}
 
 }

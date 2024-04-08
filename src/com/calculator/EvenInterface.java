@@ -1,4 +1,4 @@
-package com.even;
+package com.calculator;
 
 public interface EvenInterface {
 	

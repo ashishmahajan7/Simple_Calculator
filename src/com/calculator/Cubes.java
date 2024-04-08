@@ -1,4 +1,4 @@
-package com.cube;
+package com.calculator;
 
 import java.util.Scanner;
 
