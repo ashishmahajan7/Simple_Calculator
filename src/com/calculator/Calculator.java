@@ -48,8 +48,14 @@ public class Calculator {
 			try {
 				System.out.println("Enter number From 1 to 10 Which operation you want to perform :");
 				number = sc.nextInt();
+				if(number < 1 || number >10) {
+					throw new ArithmeticException();
+				}
 				break;
 
+			}catch(ArithmeticException e) {
+				System.out.println( number +" is not valid");
+				
 			}catch(RuntimeException e) {
 //				e.printStackTrace();
 				System.out.println("Expecting int type data ");

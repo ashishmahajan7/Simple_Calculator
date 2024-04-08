@@ -11,7 +11,7 @@ public class Evens implements EvenInterface{
 		System.out.println("You are performing Even or Odd number :");
 		while(true) {
 			try {
-				System.out.println("Enter First Number :");
+				System.out.println("Enter Number :");
 				one = sc.nextInt();
 				break;
 			}

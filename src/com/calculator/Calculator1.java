@@ -48,7 +48,7 @@ public static void main(String[] args) {
 							break;
 
 						}catch(ArithmeticException e) {
-							System.out.println("Enter the int data between 1 to 10 ");
+							System.out.println( number +" is not valid");
 							
 						}
 						catch(RuntimeException e) {
