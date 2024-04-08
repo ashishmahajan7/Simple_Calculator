@@ -45,10 +45,6 @@ public class Averages implements AverageInterface{
 		System.out.println(" ]");
 		System.out.println("Sum of these " +count + " numbers is :"+ sum);
 		int average = sum / count;
-		System.out.println("Averrage of these " +count + " numbers is :"+ average);
-		
+		System.out.println("Averrage of these " +count + " numbers is :"+ average);	
 	}
-	
-	
-
 }
