@@ -11,7 +11,7 @@ public class Squares implements SquareInterface{
 		System.out.println("You are performing Square of a number :");
 		while(true) {
 			try {
-				System.out.println("Enter First Number :");
+				System.out.println("Enter Number :");
 				number = sc.nextInt();
 				break;
 			}
