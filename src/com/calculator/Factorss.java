@@ -1,4 +1,4 @@
-package com.factors;
+package com.calculator;
 
 import java.util.Scanner;
 

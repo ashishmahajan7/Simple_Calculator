@@ -2,17 +2,6 @@ package com.calculator;
 
 import java.util.Scanner;
 
-import com.addition.Additions;
-import com.average.Averages;
-import com.cube.Cubes;
-import com.division.Divisions;
-import com.even.Evens;
-import com.factors.Factorss;
-import com.modulus.Moduluss;
-import com.multiplication.Multiplications;
-import com.square.Squares;
-import com.substraction.Subtractions;
-
 public class Calculator {
 	
 	Additions add;

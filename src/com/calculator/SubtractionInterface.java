@@ -1,4 +1,4 @@
-package com.substraction;
+package com.calculator;
 
 public interface SubtractionInterface {
 	

@@ -1,4 +1,4 @@
-package com.average;
+package com.calculator;
 
 import java.util.Scanner;
 

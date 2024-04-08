@@ -1,4 +1,4 @@
-package com.average;
+package com.calculator;
 
 public interface AverageInterface {
 	

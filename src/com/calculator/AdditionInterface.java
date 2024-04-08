@@ -1,4 +1,4 @@
-package com.addition;
+package com.calculator;
 
 public interface AdditionInterface {
 	

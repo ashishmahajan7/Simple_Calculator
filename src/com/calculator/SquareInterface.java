@@ -1,4 +1,4 @@
-package com.square;
+package com.calculator;
 
 public interface SquareInterface {
 	
